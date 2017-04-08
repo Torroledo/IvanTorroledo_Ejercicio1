@@ -1,2 +1,7 @@
-# IvanTorroledo_Ejercicio1
-Second Exercise 
+# Linear Regression-LASSO with Dummy variable 
+
+Ivan Torroledo  
+
+Juan Guillermo Aguilar
+
+
